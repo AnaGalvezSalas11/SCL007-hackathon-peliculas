@@ -1,4 +1,11 @@
  [VER DEMO](https://anagalvezsalas11.github.io/SCL007-hackathon-peliculas/)
+
+ Tecnologías utilizadas:
+
+ * Javascript
+ * Bootstrap
+ * API "The Open Movie Database", para la información en detalle de las peliculas.
+
  
  # Cine en el Aula
 
